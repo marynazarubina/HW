@@ -9,6 +9,7 @@ public class Main {
 
         System.out.println("Enter an integer:");
         int number = sc.nextInt();
+        // пользователь ввел число
 
         if (number % 3 == 0) {
             System.out.println("True");
